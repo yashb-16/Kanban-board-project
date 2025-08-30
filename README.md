@@ -88,11 +88,7 @@ src/
 
 ## 📸 Screenshot (optional)
 
-Add a screenshot to the repo and reference it here:
-
-```markdown
 ![Demo](./screenshot.png)
-```
 
 ---
 
