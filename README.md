@@ -1,4 +1,8 @@
 # Kanban Board Project
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-purple?logo=vite&logoColor=yellow)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal?logo=tailwind-css&logoColor=white)
 
 A simple **Kanban board** built with **React, TypeScript, Tailwind CSS, and dnd-kit** (drag & drop).
 
@@ -86,19 +90,15 @@ src/
 
 ---
 
-## 📸 Screenshot (optional)
+## 📸 Screenshot 
 
 ![Demo](./screenshot.png)
 
 ---
 
-## 🌐 Deployment (optional)
+## Live Demo  
 
-You can deploy easily on **Vercel** or **Netlify**. After deployment, add a link here:
-
-```markdown
-**Live Demo:** https://your-live-link.vercel.app
-```
+Check out the live demo here 👉 [Kanban Board (Live)](https://kanban-board-project-beta.vercel.app/)
 
 ---
 
